@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Samuel Sabadin and I'm a 17 years old software developer from Brazil.</p>
+<p align="left">My name is Samuel Sabadin and I'm a 17-year-old software developer from Brazil.</p>
 
 ###
 
