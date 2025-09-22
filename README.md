@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🖥️Full-Stack Developer<br>🎯 Diving into API integrations, data visualization, and real-time features<br>📚 Learning how to make backend and frontend talk seamlessly<br>🎲Always experimenting with code patterns, UI designs, and automation tricks</p>
+<p align="left">🖥️ Full-Stack Developer<br>🎯 Diving into API integrations, data visualization, and real-time features<br>📚 Learning how to make backend and frontend talk seamlessly<br>🎲 Always experimenting with code patterns, UI designs, and automation tricks</p>
 
 ###
 
